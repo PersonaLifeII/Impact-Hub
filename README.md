@@ -24,3 +24,5 @@ The message above was wrote 2 years ago, i was 12. Now, i'm 15.
 Since that i quit exploiting for 2 almost 3 years, i'm going to rerun it.
 
 New Discord user: xinthecia
+
+Update: changed my mind, going to make a new repo
