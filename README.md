@@ -19,3 +19,8 @@ Hub name: Impact Hub / Xerxia Hub
 Discord:d_analyse
 Also if you found error please tell me or just fix it yourself. F9 to see error
 ]]
+
+The message above was wrote 2 years ago, i was 12. Now, i'm 15.
+Since that i quit exploiting for 2 almost 3 years, i'm going to rerun it.
+
+New Discord user: xinthecia
