@@ -1,4 +1,4 @@
-local Venyx = loadstring(game:HttpGet("https://raw.githubusercontent.com/PersonaLifeII/Impact-Hub/refs/heads/main/UI%20Venyx?token=GHSAT0AAAAAAEMOBBCGDUNVWRMWTBLUKHKY2WPX5OA"))()
+local Venyx = loadstring(game:HttpGet("https://raw.githubusercontent.com/PersonaLifeII/Impact-Hub/refs/heads/main/UI%20Venyx"))()
 local UI  = Venyx.new("Impact Hub | FE GUI | "..os.date("%d".." ".."%B".." ".."%Y"), 5013109572) -- date
 
 local page = UI:addPage("Main Tab", 7040391851)
