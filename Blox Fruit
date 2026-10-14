@@ -107,7 +107,7 @@ end
 local HubName = "Xerxia Hub"
 local date = os.date("%d".." ".."%B".." ".."%Y")
 
-local Venyx = loadstring(game:HttpGet("https://raw.githubusercontent.com/PersonaLifeII/Impact-Hub/main/UI%20Venyx"))()
+local Venyx = loadstring(game:HttpGet("https://raw.githubusercontent.com/PersonaLifeII/Impact-Hub/refs/heads/main/UI%20Venyx?token=GHSAT0AAAAAAEMOBBCGDUNVWRMWTBLUKHKY2WPX5OA"))()
 local UI  = Venyx.new(HubName.." V.1 | Blox Fruit | "..date, 5013109572)
 
 local page1 = UI:addPage("Main Tab", 7040391851)
